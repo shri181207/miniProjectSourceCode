@@ -1,0 +1,6 @@
+[2026-04-09 13:12:23] Account: 1    | Type: ACCOUNT OPEN    | Amount:     100.50 | New Balance:     100.50
+[2026-04-09 13:16:12] Account: 56   | Type: ACCOUNT OPEN    | Amount:     500.00 | New Balance:     500.00
+[2026-04-09 13:30:01] Account: 1    | Type: TRANSFER OUT    | Amount:     -20.00 | New Balance:      80.50
+[2026-04-09 13:30:01] Account: 56   | Type: TRANSFER IN     | Amount:      20.00 | New Balance:     520.00
+[2026-04-09 13:33:25] Account: 1    | Type: TRANSFER OUT    | Amount:     -20.00 | New Balance:      60.50
+[2026-04-09 13:33:25] Account: 56   | Type: TRANSFER IN     | Amount:      20.00 | New Balance:     540.00
